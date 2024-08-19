@@ -2,6 +2,7 @@
 ](https://github.com/ThagFSD)
 <h1 align="center">Hi 👋, I'm Nguyễn Ngọc Thắng.</h1>
 <h3 align="center">I'm currently working as a Full-Stack JavaScript developer.</h3>
+<br>
 <!-- ThagFSD -->
 <!-- <a href="#" target="_blank">
   <img src="" width="1200" alt="ThagFSD" />
