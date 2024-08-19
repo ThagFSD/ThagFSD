@@ -1,7 +1,7 @@
 [![Iot-cover-image](https://user-images.githubusercontent.com/49629370/236089529-71ecc167-84cf-48c1-a2a8-36c6e234ef66.gif)
 ](https://github.com/ThagFSD)
 <h1 align="center">Hi 👋, I'm Nguyễn Ngọc Thắng.</h1>
-<h3 align="center">I'm currently a Full-Stack JavaScript developer.</h3>
+<h3 align="center">I'm currently working as a Full-Stack JavaScript developer.</h3>
 <!-- ThagFSD -->
 <!-- <a href="#" target="_blank">
   <img src="" width="1200" alt="ThagFSD" />
@@ -65,7 +65,7 @@
 </div>
 
 <br>
-<h2 align="center">🔎 Where to find me 🔍</h2>
+<h2 align="center">🔎 Where to find me 🔎</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
