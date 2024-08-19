@@ -1,6 +1,10 @@
+[![Iot-cover-image](https://user-images.githubusercontent.com/49629370/236089529-71ecc167-84cf-48c1-a2a8-36c6e234ef66.gif)
+](https://github.com/ThagFSD)
+<h1 align="center">Hi 👋, I'm Nguyễn Ngọc Thắng.</h1>
+<h3 align="center">I'm currently a Full-Stack JavaScript developer.</h3>
 <!-- ThagFSD -->
 <!-- <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="" width="1200" alt="ThagFSD" />
 </a> -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
