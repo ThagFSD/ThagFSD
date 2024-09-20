@@ -66,10 +66,10 @@
 </div>
 
 <br>
-<h2 align="center">🔎 Where to find me 🔎</h2>
+<!-- <h2 align="center">🔎 Where to find me 🔎</h2> -->
 <br>
 <!-- https://icons8.com -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://facebook.com/Coder2910" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ThagFSD-facebook" />
   </a>
@@ -82,7 +82,7 @@
   <a href="mailto:thangnguyen1913@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ThagFSD-email" />
   </a>
-</div>
+</div> -->
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThagFSD2608&label=Profile%20views&color=0e75b6&style=flat" alt="ThagFSD" /> </p>
 
